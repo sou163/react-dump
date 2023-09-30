@@ -1,2 +1,2 @@
 # react-dump
-Created with CodeSandbox
+A dumping repository for all my React practice files..
